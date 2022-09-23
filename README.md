@@ -15,6 +15,6 @@
 - **EST200 - Design and Engineering**
   - Mr. Manu Prasad
 - **CSL201 - Data Structures Lab**
-  - Abhini M Aji
+  - Ms. Abhini M Aji
 
 *All rights reserved to their respective owners. Contact us if you want any of these files to get removed.*
